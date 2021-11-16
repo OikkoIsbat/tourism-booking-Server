@@ -1,10 +1,10 @@
 # mindDoc(A Tourism Booking App)
 
-Site Link:  https://cocky-albattani-9aeff8.netlify.app/
+Site Link:  https://mental-health-auth.web.app/
 
 ## Functionalities
 
-In the project directory, you can:
+In the project, you can:
 
 1. Shipping Service
 2. Fastest Way to get to saint martin's Island.
