@@ -1,4 +1,4 @@
-# mindDoc(A Tourism Booking App)
+# SeaExplore(A Tourism Booking App)
 
 Site Link:  https://mental-health-auth.web.app/
 
